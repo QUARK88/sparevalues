@@ -1,0 +1,10 @@
+{
+	"title": "SpareValues",
+	"version": "1.0.0",
+	"github": "https://quark88.github.io/values-common",
+	"link": "quark88.github.io",
+	"description": "SpareValues is a political test that classes you on 4 axes, relatively to 8 values. Each time, you will have to answer how much from 1 to 5 you agree with the statement.",
+	"valQuestion": "",
+	"valDescription": "",
+	"mainFont": "Montserrat"
+}

@@ -1,0 +1,938 @@
+[
+	{
+		"question": "Landlords contribute nothing of value to the economy",
+		"effect": {
+			"clas": 1,
+			"soci": 0,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "The accumulation of wealth leads to the creation of an oppressive economic class",
+		"effect": {
+			"clas": 2,
+			"soci": 0,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Inheritance is not a legitimate form of wealth",
+		"effect": {
+			"clas": 2,
+			"soci": 0,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "The workplace should be more democratic",
+		"effect": {
+			"clas": 1,
+			"soci": 0,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "More laws should be decided via referendums",
+		"effect": {
+			"clas": 1,
+			"soci": 0,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "A truly free society is one where nobody has arbitrary authority over anyone else",
+		"effect": {
+			"clas": 2,
+			"soci": 0,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Top down systems of government should be replaced by ones where people have equal power",
+		"effect": {
+			"clas": 2,
+			"soci": 0,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Nobody deserves to be born into luxury",
+		"effect": {
+			"clas": 1,
+			"soci": 0,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "All adults should have an equal vote",
+		"effect": {
+			"clas": 1,
+			"soci": 0,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Power usually attracts the worst kinds of people",
+		"effect": {
+			"clas": 1,
+			"soci": 0,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Some forms of dictatorship would be much more effective than democracy",
+		"effect": {
+			"clas": -1,
+			"soci": 0,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "There are people suited to having power, and there are people who are better suited to obey them",
+		"effect": {
+			"clas": -2,
+			"soci": 0,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "There should always be people at the top of society to make the important economic decisions",
+		"effect": {
+			"clas": -2,
+			"soci": 0,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Aristocracy is preferable to democracy as a system of government",
+		"effect": {
+			"clas": -2,
+			"soci": 0,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "The idea that human nature is malleable has had disastrous consequences for the world",
+		"effect": {
+			"clas": -1,
+			"soci": 0,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "The owner of a plot of land rightfully owns all minerals discovered under it",
+		"effect": {
+			"clas": -1,
+			"soci": 0,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "A society based on private property is desirable",
+		"effect": {
+			"clas": -1,
+			"soci": 0,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Inequality is not a problem we should try to solve",
+		"effect": {
+			"clas": -2,
+			"soci": 0,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Bosses usually know what’s best for their employees, and thus should have the final say in determining wages",
+		"effect": {
+			"clas": -1,
+			"soci": 0,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "There should be structures in place to make sure democracy doesn’t get out of hand",
+		"effect": {
+			"clas": -1,
+			"soci": 0,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Freedom of speech plays a vital role in maintaining a healthy society",
+		"effect": {
+			"clas": 0,
+			"soci": 2,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Nobody, including governments and corporations, should have access to my data without my knowledge",
+		"effect": {
+			"clas": 0,
+			"soci": 2,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Conscription should be a thing of the past",
+		"effect": {
+			"clas": 0,
+			"soci": 1,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Who can and cannot get married should never be decided by a central authority",
+		"effect": {
+			"clas": 0,
+			"soci": 1,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Military spending that is not purely for defence is a waste of money",
+		"effect": {
+			"clas": 0,
+			"soci": 1,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "The press should be allowed to operate freely",
+		"effect": {
+			"clas": 0,
+			"soci": 1,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "All people should be allowed to practice and express their religion or lack thereof, as long as they’re not harming anyone",
+		"effect": {
+			"clas": 0,
+			"soci": 1,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "An individual knows their what’s in their own interests better than any legislator could",
+		"effect": {
+			"clas": 0,
+			"soci": 2,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Victimless crimes should not be considered crimes at all",
+		"effect": {
+			"clas": 0,
+			"soci": 2,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "The government should not have the power to torture citizens",
+		"effect": {
+			"clas": 0,
+			"soci": 1,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "An eye for an eye, a tooth for a tooth",
+		"effect": {
+			"clas": 0,
+			"soci": -1,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Politics is more about who wins and who loses than who’s right and who’s wrong",
+		"effect": {
+			"clas": 0,
+			"soci": -1,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "There is no point in trying to reason with people who disagree with my beliefs, they must be defeated through force",
+		"effect": {
+			"clas": 0,
+			"soci": -2,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Public executions should return, as a way to deter people from acting in undesirable ways",
+		"effect": {
+			"clas": 0,
+			"soci": -2,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "A just government would do everything in its power to ensure that people follow its laws",
+		"effect": {
+			"clas": 0,
+			"soci": -1,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "People should not be allowed to violate social norms that society has decided upon",
+		"effect": {
+			"clas": 0,
+			"soci": -1,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Some people should not have a public platform to espouse their ideas",
+		"effect": {
+			"clas": 0,
+			"soci": -1,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "These days people have too much freedom",
+		"effect": {
+			"clas": 0,
+			"soci": -2,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "My political enemies deserve to be eradicated",
+		"effect": {
+			"clas": 0,
+			"soci": -2,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "A militarised police force wouldn’t be such a bad thing",
+		"effect": {
+			"clas": 0,
+			"soci": -1,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Competition is often more desirable than cooperation",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 2,
+			"cult": 0
+		}
+	},
+	{
+		"question": "When searching for a product, consumers should have a variety of different brands to choose from",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 1,
+			"cult": 0
+		}
+	},
+	{
+		"question": "The government should not subsidise people who choose not to work",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 2,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Income taxes, if they exist at all, should be lowered",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 2,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Homelessness is a necessary evil",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 1,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Imposing governmental restrictions on markets is unnecessary since a truly free market will regulate itself",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 2,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Humans are innately selfish and greedy",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 1,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Price fixing inevitably leads to shortages",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 1,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Recessions are usually the fault of the politicians meddling with the market",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 1,
+			"cult": 0
+		}
+	},
+	{
+		"question": "The minimum wage should be abolished",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 1,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Free public transport should replace cars as the primary method of travel",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": -1,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Money is the root of all evil",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": -1,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Human needs should always take priority over human wants",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": -2,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Food and drink should be regulated by the government to make sure that they are are safe to consume",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": -1,
+			"cult": 0
+		}
+	},
+	{
+		"question": "All banks should be nationalised",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": -1,
+			"cult": 0
+		}
+	},
+	{
+		"question": "It is important that education is standardised and provided to everyone",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": -2,
+			"cult": 0
+		}
+	},
+	{
+		"question": "The economy should run as one united system, with decisions being made to benefit society as a whole",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": -2,
+			"cult": 0
+		}
+	},
+	{
+		"question": "The most important parts of the economy should not be made vulnerable to unpredictable market forces",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": -2,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Price gouging during shortages is exploitative and wrong",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": -1,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Unemployment should be drastically reduced, if not eliminated",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": -1,
+			"cult": 0
+		}
+	},
+	{
+		"question": "A person’s place of birth will become increasingly unimportant as humanity progresses towards a better future",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 0,
+			"cult": 2
+		}
+	},
+	{
+		"question": "Humanity should work together as one community to achieve goals",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 0,
+			"cult": 2
+		}
+	},
+	{
+		"question": "There is no point in trying to preserve culture, as it has no value on its own",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 0,
+			"cult": 1
+		}
+	},
+	{
+		"question": "A purely rational outlook on life is often more fulfilling than a spiritual one",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 0,
+			"cult": 1
+		}
+	},
+	{
+		"question": "The world should aim to achieve one global, unified culture",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 0,
+			"cult": 2
+		}
+	},
+	{
+		"question": "We should attempt to develop technology to allow humans to reproduce without the need for pregnancy, i.e. artificial wombs",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 0,
+			"cult": 1
+		}
+	},
+	{
+		"question": "Assuming that my ideal economic system is in place, automation is desirable",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 0,
+			"cult": 2
+		}
+	},
+	{
+		"question": "Assuming resources are distributed fairly, economic growth is almost always good",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 0,
+			"cult": 1
+		}
+	},
+	{
+		"question": "Nuclear power is worth investing in",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 0,
+			"cult": 1
+		}
+	},
+	{
+		"question": "It should be easier for people to travel from one side of the world to the other",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 0,
+			"cult": 1
+		}
+	},
+	{
+		"question": "I would do anything to protect my family",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 0,
+			"cult": -1
+		}
+	},
+	{
+		"question": "Mass consumption of luxury goods must decrease if we are to survive the upcoming ecological disaster",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 0,
+			"cult": -1
+		}
+	},
+	{
+		"question": "Humans must respect the old pre-industrial ways of life, for they brought meaning to people’s lives for thousands of years",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 0,
+			"cult": -2
+		}
+	},
+	{
+		"question": "An individual should feel a deep connection with their ancestry",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 0,
+			"cult": -2
+		}
+	},
+	{
+		"question": "A nation is more than just lines on a map, it should be viewed as a family and a shared history",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 0,
+			"cult": -1
+		}
+	},
+	{
+		"question": "Communities should aim to be self-sufficient",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 0,
+			"cult": -1
+		}
+	},
+	{
+		"question": "Nature has inherent worth, regardless of whether it’s beneficial to humans",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 0,
+			"cult": -1
+		}
+	},
+	{
+		"question": "It is sad that people are losing the connection to the land they were born in",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 0,
+			"cult": -2
+		}
+	},
+	{
+		"question": "People should value those who are close to them more than people they have never met",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 0,
+			"cult": -2
+		}
+	},
+	{
+		"question": "It is important to preserve national sovereignty",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 0,
+			"cult": -1
+		}
+	},
+	{
+		"question": "Our society has become too centralised",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 1,
+			"cult": -1
+		}
+	},
+	{
+		"question": "Free trade between nations can only bring benefits",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": 1,
+			"cult": 1
+		}
+	},
+	{
+		"question": "An AI planned economy, if it worked, would be desirable",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": -1,
+			"cult": -1
+		}
+	},
+	{
+		"question": "The state must intervene to prevent irreversible deforestation",
+		"effect": {
+			"clas": 0,
+			"soci": 0,
+			"dist": -1,
+			"cult": 1
+		}
+	},
+	{
+		"question": "Tyranny of the majority is a legitimate concern",
+		"effect": {
+			"clas": -1,
+			"soci": 1,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "The will of the majority must be implemented, even if it harms specific individuals",
+		"effect": {
+			"clas": 1,
+			"soci": -1,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Most uneducated people can’t be trusted with freedom",
+		"effect": {
+			"clas": -1,
+			"soci": -1,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "The state is unjust and should be abolished",
+		"effect": {
+			"clas": 1,
+			"soci": 1,
+			"dist": 0,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Capitalism is the most efficient economic system that has existed so far",
+		"effect": {
+			"clas": -1,
+			"soci": 0,
+			"dist": 1,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Independent trade unions weaken the economy and should be prohibited",
+		"effect": {
+			"clas": -1,
+			"soci": 0,
+			"dist": -1,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Whenever possible, individuals should start worker co-operatives instead of creating traditionally structured corporations",
+		"effect": {
+			"clas": 1,
+			"soci": 0,
+			"dist": 1,
+			"cult": 0
+		}
+	},
+	{
+		"question": "The free market inherently leads to exploitation and should be abolished",
+		"effect": {
+			"clas": 1,
+			"soci": 0,
+			"dist": -1,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Laws should be put in place to eliminate religion from the social sphere",
+		"effect": {
+			"clas": 0,
+			"soci": -1,
+			"dist": 0,
+			"cult": 1
+		}
+	},
+	{
+		"question": "Traditions of the past must be enforced to ensure that they continue to exist",
+		"effect": {
+			"clas": 0,
+			"soci": -1,
+			"dist": 0,
+			"cult": -1
+		}
+	},
+	{
+		"question": "People should be allowed to use technology to augment their bodies if they so desire",
+		"effect": {
+			"clas": 0,
+			"soci": 1,
+			"dist": 0,
+			"cult": 1
+		}
+	},
+	{
+		"question": "It should not be a crime to express anti immigrant views in public",
+		"effect": {
+			"clas": 0,
+			"soci": 1,
+			"dist": 0,
+			"cult": -1
+		}
+	},
+	{
+		"question": "Adults should be allowed to buy and sell drugs",
+		"effect": {
+			"clas": 0,
+			"soci": 1,
+			"dist": 1,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Social media platforms should not be legally required to platform controversial opinions",
+		"effect": {
+			"clas": 0,
+			"soci": -1,
+			"dist": 1,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Public transport should be free to guarantee freedom of movement",
+		"effect": {
+			"clas": 0,
+			"soci": 1,
+			"dist": -1,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Gambling should be illegal",
+		"effect": {
+			"clas": 0,
+			"soci": -1,
+			"dist": -1,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Some races are inherently superior to others",
+		"effect": {
+			"clas": -1,
+			"soci": 0,
+			"dist": -1,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Patriarchal power structures in society should be dismantled",
+		"effect": {
+			"clas": 1,
+			"soci": 0,
+			"dist": 1,
+			"cult": 0
+		}
+	},
+	{
+		"question": "People should form communes to live in harmony with nature",
+		"effect": {
+			"clas": 1,
+			"soci": 0,
+			"dist": -1,
+			"cult": 0
+		}
+	},
+	{
+		"question": "Scientific, rationally minded people should have more influence and power in society",
+		"effect": {
+			"clas": -1,
+			"soci": 0,
+			"dist": 1,
+			"cult": 0
+		}
+	}
+]

@@ -1,0 +1,103 @@
+[
+	{
+		"id": "clas",
+		"name": "Class",
+		"weights": [10, 15, 20, 10, 20, 15, 10],
+		"left": {
+			"name": "Socialist",
+			"color": "#e42d40",
+			"icon": "value_images/Socialist.png",
+			"description": ""
+		},
+		"right": {
+			"name": "Stratified",
+			"color": "#9d1a5e",
+			"icon": "value_images/Stratified.png",
+			"description": ""
+		},
+		"tiers": [
+			"Very Socialist",
+			"Socialist",
+			"Leaning Socialist",
+			"Class Neutral",
+			"Leaning Stratified",
+			"Stratified",
+			"Very Stratified"
+		]
+	},
+	{
+		"id": "soci",
+		"name": "Social",
+		"left": {
+			"name": "Permissive",
+			"color": "#ea8302",
+			"icon": "value_images/Permissive.png",
+			"description": ""
+		},
+		"right": {
+			"name": "Restrictive",
+			"color": "#df4c00",
+			"icon": "value_images/Restrictive.png",
+			"description": ""
+		},
+		"tiers": [
+			"Very Permissive",
+			"Permissive",
+			"Leaning Permissive",
+			"Social Neutral",
+			"Leaning Restrictive",
+			"Restrictive",
+			"Very Restrictive"
+		]
+	},
+	{
+		"id": "dist",
+		"name": "Distribution",
+		"left": {
+			"name": "Planning",
+			"color": "#513192",
+			"icon": "value_images/Planning.png",
+			"description": ""
+		},
+		"right": {
+			"name": "Markets",
+			"color": "#4453c3",
+			"icon": "value_images/Markets.png",
+			"description": ""
+		},
+		"tiers": [
+			"Very Planning",
+			"Planning",
+			"Leaning Planning",
+			"Distribution Neutral",
+			"Leaning Markets",
+			"Markets",
+			"Very Markets"
+		]
+	},
+	{
+		"id": "cult",
+		"name": "Cultural",
+		"left": {
+			"name": "Tribal",
+			"color": "#31884f",
+			"icon": "value_images/Tribal.png",
+			"description": ""
+		},
+		"right": {
+			"name": "Cosmopolitan",
+			"color": "#2aab98",
+			"icon": "value_images/Cosmopolitan.png",
+			"description": ""
+		},
+		"tiers": [
+			"Very Tribal",
+			"Tribal",
+			"Leaning Tribal",
+			"Culturally Neutral",
+			"Leaning Cosmopolitan",
+			"Cosmopolitan",
+			"Very Cosmopolitan"
+		]
+	}
+]
