@@ -1,0 +1,12 @@
+{
+	"title": "SpareValues",
+	"version": "1.0.0",
+	"github": "https://github.com/QUARK88/sparevalues",
+	"link": "quark88.github.io/sparevalues/",
+	"description": "This is SpareValues.",
+	"valQuestion": "What are the 6 values?",
+	"valDescription": "There are 3 independent axes and each has two opposing values assigned to them:",
+	"mainFont": "BrandonText",
+	"titleFont": "Cocogoose",
+	"webhook": ""
+}

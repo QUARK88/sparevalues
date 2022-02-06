@@ -1,0 +1,83 @@
+[
+	{
+		"id": "A1",
+		"name": "",
+		"weight": 1,
+		"weights": [10,15,20,10,20,15,10],
+		"left": {
+			"name": "Individual",
+			"color": "#ffc800",
+			"icon": "value_images/value.svg",
+			"description": ""
+		},
+		"right": {
+			"name": "Collective",
+			"color": "#c60f1e",
+			"icon": "value_images/value.svg",
+			"description": ""
+		},
+		"tiers": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"id": "A2",
+		"name": "",
+		"weight": 1,
+		"weights": [10,15,20,10,20,15,10],
+		"left": {
+			"name": "Dismantling",
+			"color": "#e85600",
+			"icon": "value_images/value.svg",
+			"description": ""
+		},
+		"right": {
+			"name": "Hierarchy",
+			"color": "#623c9c",
+			"icon": "value_images/value.svg",
+			"description": ""
+		},
+		"tiers": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	{
+		"id": "A3",
+		"name": "",
+		"weight": 1,
+		"weights": [10,15,20,10,20,15,10],
+		"left": {
+			"name": "Future",
+			"color": "#ff71a2",
+			"icon": "value_images/value.svg",
+			"description": ""
+		},
+		"right": {
+			"name": "Nature",
+			"color": "#027378",
+			"icon": "value_images/value.svg",
+			"description": ""
+		},
+		"tiers": [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	}
+]
