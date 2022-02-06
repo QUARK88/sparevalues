@@ -2,7 +2,7 @@
     {
         "question": "One person alone cannot affect social change.",
         "effect": {
-            "A4": -4,
+            "A1": -4,
             "A2": 0,
             "A3": 0
         }
@@ -10,7 +10,7 @@
     {
         "question": "Both majoritarian democracy and autocracy/oligarchy are undesirable.",
         "effect": {
-            "A4": 4,
+            "A1": 4,
             "A2": 0,
             "A3": 0
         }
@@ -18,7 +18,7 @@
     {
         "question": "Nobody should have coercive power over anyone else.",
         "effect": {
-            "A4": 4,
+            "A1": 4,
             "A2": 0,
             "A3": 0
         }
@@ -26,7 +26,7 @@
     {
         "question": "A world where people only engage with one another for their own mutual benefit is not a desirable world.",
         "effect": {
-            "A4": -4,
+            "A1": -4,
             "A2": 0,
             "A3": 0
         }
@@ -34,7 +34,7 @@
     {
         "question": "People have a duty to contribute to societal goals.",
         "effect": {
-            "A4": -4,
+            "A1": -4,
             "A2": 0,
             "A3": 0
         }
@@ -42,7 +42,7 @@
     {
         "question": "It is impossible for a person to ever be truly separate from society.",
         "effect": {
-            "A4": -4,
+            "A1": -4,
             "A2": 0,
             "A3": 0
         }
@@ -50,7 +50,7 @@
     {
         "question": "Income taxes should be abolished.",
         "effect": {
-            "A4": 4,
+            "A1": 4,
             "A2": 0,
             "A3": 0
         }
@@ -58,7 +58,7 @@
     {
         "question": "Politics should focus on the realities of conflict between people with different interests rather than abstract ideas.",
         "effect": {
-            "A4": -4,
+            "A1": -4,
             "A2": 0,
             "A3": 0
         }
@@ -66,7 +66,7 @@
     {
         "question": "Markets should not be allowed to exist",
         "effect": {
-            "A4": -4,
+            "A1": -4,
             "A2": 0,
             "A3": 0
         }
@@ -74,7 +74,7 @@
     {
         "question": "The economy should act as a single unified body in order to prevent waste.",
         "effect": {
-            "A4": -4,
+            "A1": -4,
             "A2": 0,
             "A3": 0
         }
@@ -82,7 +82,7 @@
     {
         "question": "I should be allowed to sell my own organs if I so desire.",
         "effect": {
-            "A4": 4,
+            "A1": 4,
             "A2": 0,
             "A3": 0
         }
@@ -90,7 +90,7 @@
     {
         "question": "There is no such thing as a moral obligation",
         "effect": {
-            "A4": 4,
+            "A1": 4,
             "A2": 0,
             "A3": 0
         }
@@ -98,7 +98,7 @@
     {
         "question": "All economic interactions between people should be consensual",
         "effect": {
-            "A4": 4,
+            "A1": 4,
             "A2": 0,
             "A3": 0
         }
@@ -106,7 +106,7 @@
     {
         "question": "The government should not interfere with the economy.",
         "effect": {
-            "A4": 4,
+            "A1": 4,
             "A2": 0,
             "A3": 0
         }
@@ -114,7 +114,7 @@
     {
         "question": "A universal basic income would be superior to other forms of welfare.",
         "effect": {
-            "A4": 4,
+            "A1": 4,
             "A2": 0,
             "A3": 0
         }
@@ -122,7 +122,7 @@
     {
         "question": "The economy should be directed away from the production of luxuries.",
         "effect": {
-            "A4": -4,
+            "A1": -4,
             "A2": 0,
             "A3": 0
         }
@@ -130,7 +130,7 @@
     {
         "question": "Homosexuality should not be tolerated by society.",
         "effect": {
-            "A4": -2,
+            "A1": -2,
             "A2": -1,
             "A3": -4
         }
@@ -138,7 +138,7 @@
     {
         "question": "Gender is a social construct.",
         "effect": {
-            "A4": 0,
+            "A1": 0,
             "A2": 4,
             "A3": 0
         }
@@ -146,7 +146,7 @@
     {
         "question": "Human behaviour is more determined by nurture than nature.",
         "effect": {
-            "A4": -2,
+            "A1": -2,
             "A2": 4,
             "A3": 0
         }
@@ -154,7 +154,7 @@
     {
         "question": "The age of imperialism was not such a bad thing for the world.",
         "effect": {
-            "A4": 0,
+            "A1": 0,
             "A2": -4,
             "A3": 1
         }
@@ -162,7 +162,7 @@
     {
         "question": "Nations should determine their own path, free from imperialist intervention.",
         "effect": {
-            "A4": -4,
+            "A1": -4,
             "A2": 1,
             "A3": -1
         }
@@ -170,7 +170,7 @@
     {
         "question": "The needs of the many outweigh the needs of the few.",
         "effect": {
-            "A4": -4,
+            "A1": -4,
             "A2": 1,
             "A3": 1
         }
@@ -178,7 +178,7 @@
     {
         "question": "Corporatism.",
         "effect": {
-            "A4": -4,
+            "A1": -4,
             "A2": -4,
             "A3": 0
         }
@@ -186,7 +186,7 @@
     {
         "question": "Morality is dependent on culture/society.",
         "effect": {
-            "A4": -4,
+            "A1": -4,
             "A2": 0,
             "A3": -2
         }
@@ -194,7 +194,7 @@
     {
         "question": "Economic growth is something we should be aiming for.",
         "effect": {
-            "A4": 0,
+            "A1": 0,
             "A2": -2,
             "A3": 4
         }
@@ -202,7 +202,7 @@
     {
         "question": "Great men.",
         "effect": {
-            "A4": 4,
+            "A1": 4,
             "A2": -4,
             "A3": 0
         }
@@ -210,7 +210,7 @@
     {
         "question": "Rights.",
         "effect": {
-            "A4": 4,
+            "A1": 4,
             "A2": -1,
             "A3": -4
         }
@@ -218,7 +218,7 @@
     {
         "question": "People have a moral obligation to look after the poor.",
         "effect": {
-            "A4": -4,
+            "A1": -4,
             "A2": 2,
             "A3": 0
         }
@@ -226,7 +226,7 @@
     {
         "question": "Trade unions negativity affect the economy.",
         "effect": {
-            "A4": 2,
+            "A1": 2,
             "A2": -4,
             "A3": 0
         }
@@ -234,7 +234,7 @@
     {
         "question": "“Authoritarianism” is just a pejorative used by childish people not willing to properly commit to their goals.",
         "effect": {
-            "A4": -4,
+            "A1": -4,
             "A2": -4,
             "A3": 0
         }
@@ -242,7 +242,7 @@
     {
         "question": "The industrial revolution and its consequences.",
         "effect": {
-            "A4": 0,
+            "A1": 0,
             "A2": 4,
             "A3": -4
         }
@@ -250,7 +250,7 @@
     {
         "question": "Looking after people’s needs is more important than satisfying people’s desires.",
         "effect": {
-            "A4": -4,
+            "A1": -4,
             "A2": -1,
             "A3": -4
         }
@@ -258,7 +258,7 @@
     {
         "question": "Mandatory military service.",
         "effect": {
-            "A4": -4,
+            "A1": -4,
             "A2": -4,
             "A3": 0
         }
@@ -266,7 +266,7 @@
     {
         "question": "Direct democracy.",
         "effect": {
-            "A4": -4,
+            "A1": -4,
             "A2": 4,
             "A3": 0
         }
@@ -274,7 +274,7 @@
     {
         "question": "Tyranny of the majority is a legitimate thing to fear.",
         "effect": {
-            "A4": 4,
+            "A1": 4,
             "A2": -4,
             "A3": 0
         }
@@ -282,7 +282,7 @@
     {
         "question": "The world would be a better place if the enlightenment never happened.",
         "effect": {
-            "A4": 0,
+            "A1": 0,
             "A2": -4,
             "A3": -4
         }
@@ -290,7 +290,7 @@
     {
         "question": "Our culture should be protected.",
         "effect": {
-            "A4": -2,
+            "A1": -2,
             "A2": -1,
             "A3": -4
         }
@@ -298,7 +298,7 @@
     {
         "question": "People should have the freedom to modify their bodies in however way they please.",
         "effect": {
-            "A4": 4,
+            "A1": 4,
             "A2": 0,
             "A3": 4
         }
@@ -306,7 +306,7 @@
     {
         "question": "Crypto.",
         "effect": {
-            "A4": 4,
+            "A1": 4,
             "A2": 0,
             "A3": 4
         }
@@ -314,7 +314,7 @@
     {
         "question": "Computer planning.",
         "effect": {
-            "A4": -4,
+            "A1": -4,
             "A2": 0,
             "A3": 4
         }
@@ -322,7 +322,7 @@
     {
         "question": "Increase NASA budget.",
         "effect": {
-            "A4": -4,
+            "A1": -4,
             "A2": -2,
             "A3": 4
         }
@@ -330,7 +330,7 @@
     {
         "question": "Hunter gatherers lived better than we do today.",
         "effect": {
-            "A4": 0,
+            "A1": 0,
             "A2": 4,
             "A3": -4
         }
@@ -338,7 +338,7 @@
     {
         "question": "Decentralisation.",
         "effect": {
-            "A4": 4,
+            "A1": 4,
             "A2": 0,
             "A3": -1
         }
@@ -346,7 +346,7 @@
     {
         "question": "These days, openness about sex has gone too far.",
         "effect": {
-            "A4": -4,
+            "A1": -4,
             "A2": 0,
             "A3": -4
         }
@@ -354,7 +354,7 @@
     {
         "question": "Private property should not exist.",
         "effect": {
-            "A4": -1,
+            "A1": -1,
             "A2": 4,
             "A3": 0
         }
@@ -362,7 +362,7 @@
     {
         "question": "Globalisation has been a disaster",
         "effect": {
-            "A4": -4,
+            "A1": -4,
             "A2": 4,
             "A3": -4
         }
@@ -370,7 +370,7 @@
     {
         "question": "Human history, for the most part, has been a tale of improvement and progression over time.",
         "effect": {
-            "A4": -1,
+            "A1": -1,
             "A2": -2,
             "A3": 4
         }
@@ -378,7 +378,7 @@
     {
         "question": "The weak must make way for the strong.",
         "effect": {
-            "A4": 0,
+            "A1": 0,
             "A2": -4,
             "A3": 0
         }
@@ -386,7 +386,7 @@
     {
         "question": "People with undesirable traits should not be allowed to reproduce",
         "effect": {
-            "A4": 0,
+            "A1": 0,
             "A2": -4,
             "A3": 2
         }
@@ -394,7 +394,7 @@
     {
         "question": "Welfare could increase poverty by allowing less productive individuals to reproduce.",
         "effect": {
-            "A4": 2,
+            "A1": 2,
             "A2": -4,
             "A3": 2
         }
@@ -402,7 +402,7 @@
     {
         "question": "Large organisations need a top down structure to function well.",
         "effect": {
-            "A4": 0,
+            "A1": 0,
             "A2": -4,
             "A3": 0
         }
@@ -410,7 +410,7 @@
     {
         "question": "A gift economy would be desirable.",
         "effect": {
-            "A4": 0,
+            "A1": 0,
             "A2": 4,
             "A3": 0
         }
@@ -418,7 +418,7 @@
     {
         "question": "The state should be abolished.",
         "effect": {
-            "A4": 4,
+            "A1": 4,
             "A2": 2,
             "A3": 0
         }
