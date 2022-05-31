@@ -1,0 +1,29 @@
+{
+    "A1": [
+        "Communist",
+        "Socialist",
+        "Collective",
+        "Syncretic",
+        "Individual",
+        "Private",
+        "Propertarian"
+    ],
+    "A2": [
+        "Planned",
+        "Directed",
+        "Regulated",
+        "Intervening",
+        "Permissive",
+        "Free Market",
+        "Laissez-Faire"
+    ],
+    "A3": [
+        "Autocratic",
+        "Concentrated",
+        "Unified",
+        "Representative",
+        "Dispersed",
+        "Decentral",
+        "Anarchist"
+    ]
+}

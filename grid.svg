@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3584" height="2560" viewBox="0 0 948.26663 677.33335">
+  <path fill="#fff" fill-rule="evenodd" d="M0 0h948.26666v677.33331H0z" style="font-variation-settings:normal;-inkscape-stroke:none"/>
+  <path fill="#ffe040" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.23333" d="M338.66666 338.66666v270.93333a270.9333 270.9333 0 0 0 270.93333-270.93333Z"/>
+  <path fill="#8060c0" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.23333" d="M338.66666 338.66666h270.93333A270.9333 270.9333 0 0 0 338.66666 67.733333Z"/>
+  <path fill="#f08040" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.23333" d="M67.733333 338.66666A270.9333 270.9333 0 0 0 338.66666 609.59999V338.66666Z"/>
+  <path fill="#d04060" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.23333" d="M67.733333 338.66666H338.66666V67.733333A270.9333 270.9333 0 0 0 67.733333 338.66666Z"/>
+  <path fill="#fff080" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.23333" d="M338.66666 338.66666v180.62205a180.62222 180.62224 0 0 0 180.62205-180.62205Z"/>
+  <path fill="#b0a0d0" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.23333" d="M338.66666 338.66666h180.62205a180.62222 180.62224 0 0 0-180.62205-180.62205Z"/>
+  <path fill="#ffa080" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.23333" d="M158.04461 338.66666a180.62222 180.62224 0 0 0 180.62205 180.62205V338.66666Z"/>
+  <path fill="#e08080" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.23333" d="M158.04461 338.66666h180.62205V158.04461a180.62222 180.62224 0 0 0-180.62205 180.62205Z"/>
+  <ellipse cx="-357.16632" cy="270.93332" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.23333" rx="67.73333" ry="66.729881"/>
+  <path fill="#e0e0e0" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.23333" d="M338.66666 248.35538a90.311109 90.311117 0 0 0-90.31128 90.31128 90.311109 90.311117 0 0 0 90.31128 90.31129 90.311109 90.311117 0 0 0 90.31129-90.31129 90.311109 90.311117 0 0 0-90.31129-90.31128z"/>
+  <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.46667" d="M609.59998 338.66666a270.93332 270.93332 0 0 1-270.93332 270.93332A270.93332 270.93332 0 0 1 67.733337 338.66666 270.93332 270.93332 0 0 1 338.66666 67.733337 270.93332 270.93332 0 0 1 609.59998 338.66666ZM338.66666 67.733333V609.59999M67.733333 338.66666H609.59999"/>
+  <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="8.46667" d="M67.733333 609.6 101.6 592.66666l-16.933327-16.93333ZM609.60001 67.73333l-33.86667 16.93334L592.66667 101.6Zm-.00002-.000002L67.733333 609.59999M609.6 609.60001l-16.93334-33.86667-16.93333 16.93333zM67.733332 67.733332 84.666666 101.6 101.6 84.666666Zm.000001-.000004L609.59999 609.59999"/>
+  <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.46667" d="M745.06665 67.73333h101.6v541.86664h-101.6z" style="font-variation-settings:normal"/>
+  <path fill="#e06060" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.46667" d="M745.06671 67.73333h101.6v84.666672h-101.6z" style="font-variation-settings:normal"/>
+  <path fill="#608060" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.46667" d="M745.06665 524.93335h101.6v84.666672h-101.6z" style="font-variation-settings:normal"/>
+  <path fill="#ffa0a0" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.46667" d="M745.06671 152.39998h101.6V254h-101.6z" style="font-variation-settings:normal"/>
+  <path fill="#a0b0a0" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.46667" d="M745.06671 423.33334h101.6v101.60002h-101.6z" style="font-variation-settings:normal"/>
+  <path fill="#e0e0e0" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.46667" d="M745.06671 254h101.6v169.33331h-101.6z" style="font-variation-settings:normal"/>
+</svg>

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>DozenValues</title>
+    <link rel=icon type=x-icon href="icon.png" />
+    <link rel="shortcut icon" type=x-icon href="icon.png" />
+    <meta property=og:title content="DozenValues" />
+    <meta property=og:description
+        content="DozenValues is a political test that aims to map differing political perspectives onto six axes." />
+    <meta property=og:url content="https://quark88.github.io/dozenvalues" />
+    <meta property=og:image content="https://github.com/QUARK88/dozenvalues/blob/master/icons/icon.png?raw=true" />
+    <meta property=og:type content="Political test" />
+    <meta property=og:locale content="en_US" />
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Title</h1>
+    <h2 style="text-align:center">Results</h2>
+    <img id="grid" src="grid.svg" style="display:none">
+    <canvas id="results" width="717" height="512"></canvas>
+    <div id="downloadButton"><svg viewBox="0 0 24 24">\t
+            <path fill="currentColor"
+                d="M2 12H4V17H20V12H22V17C22 18.11 21.11 19 20 19H4C2.9 19 2 18.11 2 17V12M12 15L17.55 9.54L16.13 8.13L13 11.25V2H11V11.25L7.88 8.13L6.46 9.55L12 15Z" />
+        </svg></div>
+    <button class="small_button" id="backButton" onclick="index()">Back</button><br>
+</body>
+
+<script>
+    const keys = ["A1", "A2", "A3"]
+    const rawResults = window.location.search.substring(1)
+    const results = rawResults.split(",")
+    let scores = [0, 0, 0]
+    for (const i in keys) {
+        const res = parseFloat(results[i])
+        scores[i] = (Math.round(res * 10) / 10)
+    }
+    var x = 4.1 * (scores[0] - 50)
+    var y = 4.1 * (scores[1] - 50)
+    window.onload = function () {
+        var c = document.getElementById("results")
+        var ctx = c.getContext("2d")
+        var grid = document.getElementById("grid")
+        ctx.drawImage(grid, 0, 0, 717, 512)
+        ctx.beginPath();
+        ctx.arc(256 + x,256 + y, 10, 0, 2 * Math.PI, true);
+        ctx.fillStyle = "#ff0000";
+        ctx.fill();
+        ctx.beginPath();
+        ctx.rect(560, 252 - 4.1 * (scores[2] - 50), 84, 8);
+        ctx.fill();
+    }
+    document.getElementById("downloadButton").addEventListener("click", (function () { var t = document.createElement("a"); t.download = "DozenValues Results.png", t.href = document.getElementById("results").toDataURL(), t.click() }))
+    function index() {
+        window.location.href = "index.html"
+    }
+</script>
+
+</html>
